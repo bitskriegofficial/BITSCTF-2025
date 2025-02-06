@@ -10,7 +10,8 @@ class GhostingServer:
         self.port = port
         self.sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
         self.clients = {}  # Store client states
-        self.flag = "flag{test}"
+        with open("flag.txt", "r") as f:
+            self.flag = f.read().strip()
 
         logging.basicConfig(level=logging.INFO,
                             format='%(asctime)s - %(levelname)s - %(message)s')
