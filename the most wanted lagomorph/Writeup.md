@@ -10,10 +10,10 @@ Analyzing this hints at a similarity with hex codes; since ASCII code is fully n
 However, attempting to decode it as hex also poses an issue, as hexadecimal values only contain letters A to F. This suggests that the text might first require a ROT13 or ATBASH transformation to shift the letters into the valid hexadecimal range.
 The letters currently present are:
 -m
--j
--k
+*j
++k
 -l
--i
+*i
 Decoding with ATBASH gives us:
 ![Screenshot 2025-02-11 232608](https://github.com/user-attachments/assets/427a6bf6-60d1-4fb5-8ad8-b2eb908b7477)
 
@@ -45,4 +45,4 @@ What hints at the password being all lowercase? The challenge title itself was w
 And finally, decrypting with this key gives us:
 ![Screenshot 2025-02-11 234830](https://github.com/user-attachments/assets/ef172e75-8b53-47f8-a936-f28f7d2a264b)
 
-FLAG: BITSCTF{f3rb_1_kn0w_wh47_w3_4r3_60nn4_d0_70d4y}
+>FLAG: BITSCTF{f3rb_1_kn0w_wh47_w3_4r3_60nn4_d0_70d4y}
