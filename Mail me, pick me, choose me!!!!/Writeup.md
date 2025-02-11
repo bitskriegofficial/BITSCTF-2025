@@ -1,6 +1,6 @@
 # Mail me, pick me, choose me!!!! : Solution
 In this challenge, the first clue is hidden within the challenge description itself:
-![image](https://github.com/user-attachments/assets/b191519d-e495-49c5-af42-0e95f488f8a7=100*100)
+![super-necessary][image](https://github.com/user-attachments/assets/b191519d-e495-49c5-af42-0e95f488f8a7 )
 
 The italicized my-diary directs us to the website 'my-diary.org'
 ![image](https://github.com/user-attachments/assets/d0dd88db-8ee5-42b9-9e18-f24672d15b8c)
