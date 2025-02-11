@@ -9,6 +9,7 @@ By navigating to 'Public Diaries' on the site and searching for the keyword Phin
 ![image](https://github.com/user-attachments/assets/dd1d2688-0714-406e-b0ca-4331dd913cc3)
 
 Among the seven diary entries: 
+
 ![image](https://github.com/user-attachments/assets/85d17470-4357-4102-af9c-49304f6eb655)
 
 When we look at the 3rd diary entry, we see a crucial hint:
