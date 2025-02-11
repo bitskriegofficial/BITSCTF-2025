@@ -9,11 +9,11 @@ Decoding this Rot8000 code gives us:
 Analyzing this hints at a similarity with hex codes; since ASCII code is fully numerical, it cannot be ASCII due to the presence of random alphabets alongside numerical values.
 However, attempting to decode it as hex also poses an issue, as hexadecimal values only contain letters A to F. This suggests that the text might first require a ROT13 or ATBASH transformation to shift the letters into the valid hexadecimal range.
 The letters currently present are:
--m
-*j
-+k
--l
-*i
+1.m
+2.j
+3.k
+4.l
+5.i
 Decoding with ATBASH gives us:
 ![Screenshot 2025-02-11 232608](https://github.com/user-attachments/assets/427a6bf6-60d1-4fb5-8ad8-b2eb908b7477)
 
