@@ -1,4 +1,4 @@
-# The Most Wanted Lagomorph : Solution
+# the most wanted lagomorph : Solution
 
 In this challenge, entering the provided Mandarin code into [Dcode.fr](https://www.dcode.fr) reveals the first hint: **Rot8000**.
 
