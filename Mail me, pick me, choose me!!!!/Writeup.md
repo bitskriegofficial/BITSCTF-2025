@@ -36,5 +36,6 @@ This is where the challenge title, 'Mail Me', becomes relevant.
 When you send an email to this account, you receive the much-needed flag. 
 ![image](https://github.com/user-attachments/assets/37b17d20-419e-4ffb-b84b-e4964bf72305)
 
->FLAG : BITSCTF{1_4m_6047} 
-------------------------------------------------------------------------------------------------------------------------
+###  FLAG:
+```
+BITSCTF{1_4m_6047} 
